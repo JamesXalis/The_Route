@@ -1,0 +1,1 @@
+const currentDay = moment().format("dddd, LL");
