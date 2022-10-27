@@ -23,9 +23,6 @@ One feature that will be added in a future update is automatic deletion of previ
 
 N/A (Please see above for deployed link.) Once on deployed page, begin adding entries and saving to see application in action!
 
-## Credits
-
-Special thanks to the UofA Coding Bootcamp teaching staff for guidance and assistance.
 
 ## License
 
